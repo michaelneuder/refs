@@ -1,0 +1,20 @@
+Eth addresses: 
+https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html#:~:text=Cryptographic%20hash%20functions%20are%20a,fixed%2Dsize%20string%20of%20bits.
+
+Metamask account creation:
+https://levelup.gitconnected.com/blockchain-series-how-metamask-creates-accounts-a8971b21a74b
+
+BIP 39:
+https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+
+Address from private key:
+https://www.freecodecamp.org/news/how-to-create-an-ethereum-wallet-address-from-a-private-key-ae72b0eee27b/#:~:text=Ethereum%20uses%20the%20same%20elliptic,the%20elliptic%20curve%2C%20concatenated%20together.
+
+Mnemonics:
+https://wolovim.medium.com/ethereum-201-mnemonics-bb01a9108c38
+
+PBKDF2:
+https://en.wikipedia.org/wiki/PBKDF2
+
+ECDSA:
+https://stackoverflow.com/questions/60385053/how-to-generate-the-ecdsa-public-key-from-its-private-key
