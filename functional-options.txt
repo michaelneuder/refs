@@ -1,0 +1,10 @@
+General refs
+Interesting SA discussion https://stackoverflow.com/questions/2032149/optional-parameters-in-go
+Original Rob Pike post https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
+Dave Cheney post https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
+
+Prysm refs
+Raul's abandoned PR https://github.com/prysmaticlabs/prysm/pull/9881/files
+The new PR https://github.com/prysmaticlabs/prysm/pull/10554
+The issue requesting this feature https://github.com/prysmaticlabs/prysm/issues/10339
+
